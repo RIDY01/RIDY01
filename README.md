@@ -1,7 +1,7 @@
 ## Introduction
-- 👋 Hi, I’m @RIDY01
-- 👀 I’m interested in Web Applications - Unity3D - Java - Python - Linux 
-- 🌱 I’m currently learning AngularJS (Frontend) and Spring Boot Java (Backend) 
+👋 Hi, I’m @RIDY01
+👀 I’m interested in Web Applications - Unity3D - Java - Python - Linux 
+🌱 I’m currently learning AngularJS (Frontend) and Spring Boot Java (Backend) 
 
 ## Skills
 ### Develop Websites / Webapps
