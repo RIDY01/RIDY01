@@ -1,9 +1,7 @@
 ## Introduction
-👋 Hi, I’m @RIDY01, 20 years old and living in Luxembourg
+👋 Hi, I’m @RIDY01, 21 years old and living in Luxembourg
 
 👀 I’m interested in Web Applications - Unity3D - Java - Python - Linux
-
-🌱 I’m currently learning AngularJS (Frontend) and Spring Boot Java (Backend) 
 
 ## Skills
 ### Develop Websites / Webapps
