@@ -9,7 +9,7 @@
 [![Frontend](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,jquery,angular,react,figma)](http://od-design.epizy.com/Our_website/)
 
 #### Backend
-[![Backend](https://skills.thijs.gg/icons?i=php,spring,postgres,mysql)](http://od-design.epizy.com/Our_website/)
+[![Backend](https://skills.thijs.gg/icons?i=php,spring,postgres,mysql,c#)](http://od-design.epizy.com/Our_website/)
 
 ### Computer Science
 [![Backend](https://skills.thijs.gg/icons?i=docker,linux,powershell,bash,python)](http://od-design.epizy.com/Our_website/)
